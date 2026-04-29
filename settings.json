@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "GlowPrints",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GlowPrints.aternos.me",
-    "port": 59242,
-    "version": "",
+    "ip": "GlowPrincess.aternos.me",
+    "port": 59013,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Zostaw Suba YT Kanał: xN4ughty ",
+        "Dzięki mnie serwer jest 24/7!",
+        "Miłej gry"
       ]
     },
     "chat-log": true,
